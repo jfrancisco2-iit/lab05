@@ -53,7 +53,7 @@ img{
   height: 80%;
 }
 
-p{
+p.p-special{
   text-align: center;
   font-family: 'introrustg-base2line', serif;
   font-size: 50px;
