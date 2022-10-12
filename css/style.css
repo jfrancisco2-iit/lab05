@@ -25,13 +25,14 @@ th, td {
 th.special1{
   color: #050A30;
   font-family: 'introrustg-base2line', serif;
+  font-weight: bold;
   border-style: inset;
 }
 
 th.special2{
   color: white;
   font-family: 'introrustg-base2line', serif;
-  font-size: 25px;
+  font-weight: bold;
   background-color: #05445E;
   border-style: inset;
 }
