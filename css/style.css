@@ -27,6 +27,10 @@ th{
   background-color: #05445E;
 }
 
+td{
+  font-size: 70px;
+}
+
 table{
   border-style: inset;
   text-align: center;
