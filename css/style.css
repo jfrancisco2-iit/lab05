@@ -9,10 +9,6 @@ h1 {
   font-size: 50px;
 }
 
-h2, h3 {
-  font-family: 'introrustg-base2line', serif;
-}
-
 h1{
   text-align: center;
 }
@@ -26,13 +22,16 @@ th, td {
   text-align: center;
 }
 
-th{
+th.special1{
   color: #050A30;
+  font-family: 'introrustg-base2line', serif;
   border-style: inset;
 }
 
-th.special{
+th.special2{
   color: white;
+  font-family: 'introrustg-base2line', serif;
+  font-size: 25px;
   background-color: #05445E;
   border-style: inset;
 }
