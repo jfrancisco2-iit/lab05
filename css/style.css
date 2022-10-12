@@ -38,7 +38,7 @@ th.special{
 }
 
 td{
-  font-size: 25px;
+  font-size: 40px;
   border-style: dashed;
 }
 
@@ -51,5 +51,11 @@ table{
 img{
   width: 60%;
   height: 80%;
+}
+
+p{
+  text-align: center;
+  font-family: 'introrustg-base2line', serif;
+  font-size: 50px;
 }
 
