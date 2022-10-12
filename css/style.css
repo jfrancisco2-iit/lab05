@@ -10,12 +10,15 @@ h1 {
 }
 
 h2, h3 {
-  color: black;
   font-family: 'introrustg-base2line', serif;
 }
 
 h1{
   text-align: center;
+}
+
+h3{
+  color: white;
 }
 
 th, td {
@@ -31,6 +34,7 @@ th{
 
 td{
   font-size: 25px;
+  border-style: dashed;
 }
 
 table{
