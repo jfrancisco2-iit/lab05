@@ -20,6 +20,8 @@ th, td {
 
 table{
   border-style: inset;
+  text-align: center;
+  margin: 20px 300px;
 }
 
 .pheader{
