@@ -21,11 +21,11 @@ th, td {
 table{
   border-style: inset;
   text-align: center;
-  margin: 30px 200px;
+  margin: 30px 600px;
 }
 
 img{
-  width: 25%;
-  height: auto;
+  width: 50%;
+  height: 60%;
 }
 
