@@ -1,6 +1,11 @@
-h1, h2, h3 {
+h1 {
 	color: white;
 	background-color: black;
+	font-family: 'introrustg-base2line', serif;
+}
+
+h2, h3 {
+	color: black;
 	font-family: 'introrustg-base2line', serif;
 }
 
