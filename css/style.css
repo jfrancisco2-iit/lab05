@@ -1,23 +1,28 @@
 h1 {
-	color: white;
-	background-color: black;
-	font-family: 'introrustg-base2line', serif;
+  color: white;
+  background-color: black;
+  font-family: 'introrustg-base2line', serif;
 }
 
 h2, h3 {
-	color: black;
-	font-family: 'introrustg-base2line', serif;
+  color: black;
+  font-family: 'introrustg-base2line', serif;
 }
 
 h1{
-	text-align: center;
+  text-align: center;
 }
 
 th, td {
-	padding: 15px;
-	text-align: center;
+  padding: 15px;
+  text-align: center;
 }
 
 table{
-	border-style: inset;
+  border-style: inset;
 }
+
+.pheader{
+  padding-right: 100px;
+}
+
