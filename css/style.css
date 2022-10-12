@@ -22,6 +22,11 @@ th, td {
   text-align: center;
 }
 
+th{
+  color: white;
+  background-color: #05445E;
+}
+
 table{
   border-style: inset;
   text-align: center;
