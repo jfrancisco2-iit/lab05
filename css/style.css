@@ -28,6 +28,11 @@ th, td {
 
 th{
   color: white;
+  border-style: inset;
+}
+
+th.special{
+  color: white;
   background-color: #05445E;
   border-style: inset;
 }
